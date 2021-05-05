@@ -10,10 +10,10 @@ This is the homework for Professional README Generator.
 
 ## Screenshot for the application
 
-![Screenshot](./image/screenshot.png)
+![Screenshot](./develop/image/screenshot.png)
 
 ## Video for the application
-![Demo](https://drive.google.com/file/d/1Und8wBXu2tWM5414nebbGC-T-_bdUw0U/view)
+![Demo](./develop/image/demo.gif)
 ## User Story
 
 ```md
