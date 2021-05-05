@@ -13,7 +13,7 @@ const questions = [
       {
         type: "input",
         name: "projectURL",
-        message: "What is the URL to your project??"
+        message: "What is the URL to your project?"
       },
       {
         type: "input",
