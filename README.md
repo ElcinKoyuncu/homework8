@@ -6,14 +6,16 @@
 This is the homework for Professional README Generator.
 
 ## Link for the repo
-[My homework](https://elcinkoyuncu.github.io/homework6/)
+[My homework]( https://elcinkoyuncu.github.io/homework8/)
 
 ## Screenshot for the application
 
-![Screenshot](./develop/image/screenshot.png)
+![Screenshot](./assets/image/screenshot.png)
 
 ## Video for the application
-![Demo](./develop/image/demo.gif)
+
+![Demo](./assets/image/demo.gif)
+
 ## User Story
 
 ```md
